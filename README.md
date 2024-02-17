@@ -1,4 +1,4 @@
-# ELias Dyesse
+# ELias Baraka Dyesse
 
 👋 Hello there! Welcome to my GitHub profile.
 
