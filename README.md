@@ -1,5 +1,3 @@
-# ELias Baraka Dyesse
-
 👋 Hello there! Welcome to my GitHub profile.
 
 I'm ELias, a passionate Full-stack Developer based in Cyprus. With a background in Civil Engineering, I've transitioned into mastering the art of software development, driving technological solutions at CyprusCodes.
