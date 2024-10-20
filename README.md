@@ -17,16 +17,11 @@ I'm ELias, a passionate Full-stack Developer based in Cyprus. With a background 
 - Part-time remote role where I've honed my skills in software development.
 
 ## Education
-- 🎓 Master of Engineering - Engineering - Management  
-  - 🏫 Cyprus International University  
-  - 📅 Sep 2023 - Jun 2025
-
 - 🎓 Civil Engineering  
   - 🏫 Cyprus International University  
   - 📅 2018 - 2022
 
 ## Skills
-- 🛠️ Industry Knowledge: Total Quality Management (TQM), production planning and scheduling, Data Analysis & Computer Applications in Management  
 - 🔧 Tools & Technologies: Git, REST APIs, JavaScript, TypeScript, Next.js, Cascading Style Sheets (CSS), HTML5, Python, C++, AutoCAD, Microsoft Excel, Microsoft Word
 
 ## Interests
